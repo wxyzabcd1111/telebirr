@@ -78,7 +78,7 @@ you have set on payment request. Here is how you can decrypt the payload coming 
 
 
 ```python
-from telebirr import Telebirr
+from telebirr imports Telebirr
 public_key = "YOUR PUBLIC KEY FORM TELEBIRR ADMIN"
 payload = "Payload coming from telebirr" // If you are using django it means request.body
 
